@@ -1,0 +1,11 @@
+{
+    "name": "MultiFunctionShield",
+    "version": "1.0.0",
+    "description": "Multi-Function-Shield Lib",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TGmuk/MBED-ESP8266_WebServer"
+    },
+    "frameworks": "mbed",
+    "platforms": "ststm32"
+}
